@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 26px;
+        fill: currentColor;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Calibri;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        font-size: 38px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: currentColor;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Mesa_de_trabajo_1">
+    <image id="Capa_2" data-name="Capa 2" width="50" height="50" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAVklEQVRoge3PAQ3AIBAAsWcWluHf6bDRkKuDrv29/1zguSExRUBFNEU0RTRFNEU0RTRFNEU0RTRFNEU0RTRFNEU0RTRFNEU0RTRFNEU0RTRFNEUoM3MAbbMBoXPt3EAAAAAASUVORK5CYII="/>
+    <text id="P" class="cls-2" x="16.031" y="36.813">P</text>
+    <path id="Forma_1" data-name="Forma 1" class="cls-3" d="M2,3H3V18H2V3ZM14,2V3H2V2H14Z"/>
+    <path id="Forma_1_copia" data-name="Forma 1 copia" class="cls-3" d="M48.333,46.827l-1,0,0.067-15,1,0Zm-12,.946,0-1,12,0.054,0,1Z"/>
+  </g>
+</svg>
