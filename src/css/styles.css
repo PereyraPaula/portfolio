@@ -412,6 +412,14 @@ body {
     color: var(--primary-color-light);
 }
 
+.experience__list .period {
+    font-size: 15px;
+    text-align: right;
+    color: #F3DBEC;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
 footer {
     background-color: var(--primary-color);
 }
